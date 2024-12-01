@@ -35,8 +35,11 @@ Struktura projektu
 walidacja-faktury-xml/
 │
 ├── index.php         # Główny plik aplikacji
+
 ├── schemat.xsd       # Plik schematu XSD (do dodania przez użytkownika)
+
 └── README.md         # Dokumentacja projektu
+
 
 Jak używać
 
